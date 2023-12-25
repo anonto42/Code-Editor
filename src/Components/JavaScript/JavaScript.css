@@ -1,9 +1,20 @@
 .JavaScript{
     width: 80%;
-    background-color: yellow;
+    background-color: rgba(255, 255, 178, 0.9);
     margin: auto;
-    height: 290px;
+    height: 360px;
     margin-top: 30px;
     border-radius: 10px;
     padding: 20px 25px;
+    overflow: hidden;
+}
+.javaScript{
+    margin-top: -20px;
+    padding: 10px 20px;
+    max-width: 1450px;
+    margin-left: -26px;
+    margin-right: -26px ;
+}
+.fa-js{
+    color: #fff200;
 }

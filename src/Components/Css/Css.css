@@ -1,6 +1,10 @@
 .css{
     width: 40%;
     height: 350px;
-    background-color: antiquewhite;
+    background-color: rgb(207, 220, 255, .9);
     border-radius: 10px;
+    overflow: hidden;
+}
+.fa-css3-alt{
+    color: rgb(151, 185, 255);
 }

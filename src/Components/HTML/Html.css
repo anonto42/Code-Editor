@@ -1,6 +1,39 @@
 .html{
     width: 40%;
     height: 350px;
-    background-color: aliceblue;
+    background-color: rgb(255, 231, 215 , .9);
     border-radius: 10px;
+    overflow: hidden;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    font-size: 25px;
+    background: #888888;
+}
+.fa-html5{
+    color: #fb8c5c;
+}
+.fa-brands:hover{
+    transform: scale(1.1);
+}
+.fa-copy{
+    cursor: pointer;
+    color: #ffffff;
+}
+.fa-copy:hover{
+    color: #c9c9c9;
+    transform: scale(.95);
+}
+.codes{
+    width: 90%;
+    height: 90%;
+    padding: 10px 28px;
+    padding-left: 35px;
+}
+.codes ul li{
+    list-style: text;
+    font-size: 20px;
+    font-weight: 600;
 }
